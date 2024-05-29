@@ -1,0 +1,6 @@
+rootProject.name = 'ms22Project'
+include 'authentication'
+include 'user-ms'
+include 'order-ms'
+include 'common-ms'
+
